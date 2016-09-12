@@ -1,0 +1,16 @@
+//
+//  headers.pch
+//  bunnymark
+//
+//  Created by John Girvin on 13/01/2016.
+//  Copyright © 2016 John Girvin. All rights reserved.
+//
+
+#ifndef headers_pch
+#define headers_pch
+
+#define SDL_GPU_DISABLE_OPENGL 1
+#define SDL_GPU_DISABLE_GLES_1 1
+#define SDL_GPU_DISABLE_GLES_3 1
+
+#endif /* headers_pch */
